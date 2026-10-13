@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:0891B2&height=210&section=header&text=Yagna%20Daryani&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=ARTIFICIAL%20INTELLIGENCE%20%C2%B7%20DATA%20SCIENCE%20%C2%B7%20WEB&descSize=13&descAlignY=58" width="100%" alt="Yagna Daryani — Artificial Intelligence, Data Science and Web" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:0891B2&height=210&section=header&text=Yagna%20Daryani&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=ARTIFICIAL%20INTELLIGENCE%20%C2%B7%20DATA%20SCIENCE%20%C2%B7%20WEB&descSize=13&descAlignY=58" width="100%" alt="Yagna Daryani — Artificial Intelligence, Data Science and Web App Development" />
 </p>
 
 <h3 align="center">Building intelligent ideas into interactive experiences.</h3>
