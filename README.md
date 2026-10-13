@@ -111,7 +111,7 @@ Have an idea to build, a project to collaborate on, or something interesting to 
 <p align="center">
   <a href="https://www.linkedin.com/in/yagna-daryani"><img src="https://img.shields.io/badge/LinkedIn-Yagna%20Daryani-0A66C2?style=for-the-badge" alt="Connect with Yagna Daryani on LinkedIn" /></a>
   &nbsp;
-  <a href="https://github.com/yagnadaryani"><img src="https://img.shields.io/badge/GitHub-yagnadaryani-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Yagna Daryani's GitHub profile" /></a>
+  <a href="https://discord.com/users/1505261838198378677"><img src="https://img.shields.io/badge/Discord-yagna__daryani-5865F2?style=for-the-badge" alt="Connect with yagna_daryani on Discord" /></a>
 </p>
 
 <p align="center"><sub>AI &amp; data science · Web experiences · Project collaboration</sub></p>
