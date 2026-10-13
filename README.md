@@ -13,10 +13,14 @@
   <a href="#about">About</a> &nbsp; / &nbsp;
   <a href="#tech-stack">Tech Stack</a> &nbsp; / &nbsp;
   <a href="#featured-repositories">Projects</a> &nbsp; / &nbsp;
+  <a href="#connect-with-me">Connect</a> &nbsp; / &nbsp;
   <a href="https://github.com/yagnadaryani?tab=repositories">All Repositories ↗</a>
 </p>
 
 <br />
+
+<a name="about"></a>
+
 ## About
 
 I explore the intersection of **artificial intelligence, data, and thoughtful web experiences**. My projects range from personalized engineering education to interactive Earth visualization and community-focused applications.
@@ -24,6 +28,8 @@ I explore the intersection of **artificial intelligence, data, and thoughtful we
 I enjoy turning complex ideas into interfaces people can explore, understand, and use.
 
 > **Current focus:** AI-assisted learning · Interactive simulations · Modern web development
+
+<a name="tech-stack"></a>
 
 ## Tech Stack
 
@@ -42,6 +48,9 @@ I enjoy turning complex ideas into interfaces people can explore, understand, an
 <p align="center"><strong>Also working with:</strong> Gemini API · React Three Fiber · Motion · Recharts · TanStack Start</p>
 
 <br />
+
+<a name="featured-repositories"></a>
+
 ## Featured Repositories
 
 Four projects. Four different ways to turn an idea into an experience.
@@ -71,7 +80,9 @@ Four projects. Four different ways to turn an idea into an experience.
       <p><strong>Technology with a community purpose.</strong></p>
       <p>A missing-person finder project for Kumbh, bringing a community-focused use case into a modern web application.</p>
       <p><code>React</code> <code>JavaScript</code> <code>Leaflet</code> <code>Vite</code></p>
-      <a href="https://github.com/yagnadaryani/KumbhSaathi"><strong>Explore KumbhSaathi ↗</strong></a>
+      <a href="https://kumbhsaathi.urjaacreatives.com/"><strong>Try the live demo ↗</strong></a>
+      &nbsp; · &nbsp;
+      <a href="https://github.com/yagnadaryani/KumbhSaathi">View source ↗</a>
       <br /><br />
     </td>
     <td width="50%" valign="top">
@@ -88,6 +99,22 @@ Four projects. Four different ways to turn an idea into an experience.
 <p align="center">
   <a href="https://github.com/yagnadaryani?tab=repositories"><strong>View all repositories →</strong></a>
 </p>
+
+---
+
+<a name="connect-with-me"></a>
+
+## Connect with me
+
+Have an idea to build, a project to collaborate on, or something interesting to share? Let's connect.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yagna-daryani"><img src="https://img.shields.io/badge/LinkedIn-Yagna%20Daryani-0A66C2?style=for-the-badge" alt="Connect with Yagna Daryani on LinkedIn" /></a>
+  &nbsp;
+  <a href="https://github.com/yagnadaryani"><img src="https://img.shields.io/badge/GitHub-yagnadaryani-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Yagna Daryani's GitHub profile" /></a>
+</p>
+
+<p align="center"><sub>AI &amp; data science · Web experiences · Project collaboration</sub></p>
 
 ---
 
